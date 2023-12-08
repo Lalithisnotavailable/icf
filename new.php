@@ -376,7 +376,7 @@
         "subject": "Trade Theory",
         "chapter": "Module I",
         "image": 0
-    },
+    }
     {
         "id": "28",
         "question": "Which one is personal safety?|à¤•à¥Œà¤¨ à¤¸à¤¾ à¤µà¥à¤¯à¤•à¥à¤¤à¤¿à¤—à¤¤ à¤¸à¥à¤°à¤•à¥à¤·à¤¾ à¤¹à¥ˆ?",
