@@ -390,5 +390,5 @@
         "subject": "Trade Theory",
         "chapter": "Module I",
         "image": 0
-    },
+    }
 ]
