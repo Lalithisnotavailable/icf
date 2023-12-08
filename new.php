@@ -10,7 +10,7 @@
         "trade": "Fitter",
         "year": "First Year",
         "subject": "Trade Theory",
-        "chapter": "Module I",
+        "chapter": "testtt",
         "image": 0
     },
     {
@@ -388,7 +388,7 @@
         "trade": "Plumber",
         "year": "First Year",
         "subject": "Trade Theory",
-        "chapter": "Module I",
+        "chapter": "testtttt",
         "image": 0
     }
 ]
