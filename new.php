@@ -27,6 +27,6 @@
         "chapter": "Module I",
         "image": "https:\/\/icf.gov.in\/quiz\/images\/002.jpg"
     }
-[
+]
    
 
