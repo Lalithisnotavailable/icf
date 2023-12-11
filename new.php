@@ -22,7 +22,7 @@
         "option4": "Unguarded|à¤…à¤¸à¤‚à¤°à¤•à¥à¤·à¤¿à¤¤",
         "correct_option": "Unguarded|à¤…à¤¸à¤‚à¤°à¤•à¥à¤·à¤¿à¤¤",
         "trade": "Fitter",
-        "year": "First Year",
+        "year": "Second Year",
         "subject": "Trade Theory",
         "chapter": "Module 1",
         "image": "https:\/\/icf.gov.in\/quiz\/images\/002.jpg"
