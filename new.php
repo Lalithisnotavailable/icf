@@ -10,7 +10,7 @@
         "trade": "Fitter",
         "year": "First Year",
         "subject": "Trade Theory",
-        "chapter": "testtt",
+        "chapter": "Module 1",
         "image": 0
     },
     {
@@ -24,11 +24,11 @@
         "trade": "Fitter",
         "year": "First Year",
         "subject": "Trade Theory",
-        "chapter": "Module I",
+        "chapter": "Module 2",
         "image": "https:\/\/icf.gov.in\/quiz\/images\/002.jpg"
     },
     {
-        "id": "1",
+        "id": "3",
         "question": "Which one is personal safety?|à¤•à¥Œà¤¨ à¤¸à¤¾ à¤µà¥à¤¯à¤•à¥à¤¤à¤¿à¤—à¤¤ à¤¸à¥à¤°à¤•à¥à¤·à¤¾ à¤¹à¥ˆ?",
         "option1": "Keep the machine clean|à¤®à¤¶à¥€à¤¨ à¤•à¥‹ à¤¸à¤¾à¤« à¤°à¤–à¥‡à¤‚",
         "option2": "Concentrate on your work|à¤…à¤ªà¤¨à¥‡ à¤•à¤¾à¤® à¤ªà¤° à¤§à¥à¤¯à¤¾à¤¨ à¤•à¥‡à¤‚à¤¦à¥à¤°à¤¿à¤¤ à¤•à¤°à¥‡à¤‚",
@@ -38,7 +38,7 @@
         "trade": "Plumber",
         "year": "First Year",
         "subject": "Trade Theory",
-        "chapter": "plumbs",
+        "chapter": "Module 1 of plumber",
         "image": 0
     }
 ]
