@@ -36,10 +36,10 @@
         "option3": "Guarded|à¤¸à¤‚à¤°à¤•à¥à¤·à¤¿à¤¤",
         "option4": "Unguarded|à¤…à¤¸à¤‚à¤°à¤•à¥à¤·à¤¿à¤¤",
         "correct_option": "A",
-        "trade": "Fitter",
+        "trade": "Electrician",
         "year": "First Year",
         "subject": "Trade Theory",
-        "chapter": "Module 2",
+        "chapter": "Module 1",
         "image": "https:\/\/icf.gov.in\/quiz\/images\/002.jpg"
 
     },
