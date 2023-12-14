@@ -41,7 +41,6 @@
         "chapter": "Module I",
         "image": 0
     },
-
     {
         "id": "4",
         "question": "Flammable or liquefiable solids are classified as.|à¤œà¤²à¤¨à¤¯ à¤¯à¤¾ à¤ªà¤¿à¤˜à¤²à¤¨à¥‡ à¤µà¤¾à¤²à¥‡ à¤ à¥‹à¤¸ à¤•à¥‹ à¤•à¥ˆà¤¸à¥‡ à¤µà¤°à¥à¤—à¥€à¤•à¥ƒà¤¤ à¤•à¤¿à¤¯à¤¾ à¤œà¤¾à¤¤à¤¾ à¤¹à¥ˆà¥¤",
@@ -70,7 +69,6 @@
         "chapter": "Module I",
         "image": "https:\/\/icf.gov.in\/quiz\/images\/002.jpg"
     },
-
     {
         "id": "6",
         "question": "What is the class of fire caused by firewood, paper, cloth?|à¤†à¤— à¤•à¤¾ à¤•à¥à¤²à¤¾à¤¸ à¤•à¥à¤¯à¤¾ à¤¹à¥ˆ à¤œà¤¿à¤¸à¤•à¥€ à¤µà¤œà¤¹ à¤¸à¥‡ à¤²à¤•à¤¡à¤¼à¥€, à¤•à¤¾à¤—à¤œ, à¤•à¤ªà¤¡à¤¼à¤¾ à¤¹à¥‹à¤¤à¤¾ à¤¹à¥ˆ?",
@@ -98,7 +96,7 @@
         "subject": "Trade Theory",
         "chapter": "Module III",
         "image": 0
-    }
+    },
     {
         "id": "8",
         "question": "Name the mandatory symbol.|à¤…à¤¨à¤¿à¤µà¤¾à¤°à¥à¤¯ à¤ªà¥à¤°à¤¤à¥€à¤• à¤•à¤¾ à¤¨à¤¾à¤® à¤¬à¤¤à¤¾à¤à¤‚à¥¤",
@@ -141,7 +139,6 @@
         "chapter": "Module I",
         "image": 0
     },
-
     {
         "id": "11",
         "question": "Flammable or liquefiable solids are classified as.|à¤œà¤²à¤¨à¤¯ à¤¯à¤¾ à¤ªà¤¿à¤˜à¤²à¤¨à¥‡ à¤µà¤¾à¤²à¥‡ à¤ à¥‹à¤¸ à¤•à¥‹ à¤•à¥ˆà¤¸à¥‡ à¤µà¤°à¥à¤—à¥€à¤•à¥ƒà¤¤ à¤•à¤¿à¤¯à¤¾ à¤œà¤¾à¤¤à¤¾ à¤¹à¥ˆà¥¤",
@@ -170,7 +167,6 @@
         "chapter": "Module I",
         "image": 0
     },
-
     {
         "id": "13",
         "question": "What is the class of fire caused by firewood, paper, cloth?|à¤†à¤— à¤•à¤¾ à¤•à¥à¤²à¤¾à¤¸ à¤•à¥à¤¯à¤¾ à¤¹à¥ˆ à¤œà¤¿à¤¸à¤•à¥€ à¤µà¤œà¤¹ à¤¸à¥‡ à¤²à¤•à¤¡à¤¼à¥€, à¤•à¤¾à¤—à¤œ, à¤•à¤ªà¤¡à¤¼à¤¾ à¤¹à¥‹à¤¤à¤¾ à¤¹à¥ˆ?",
