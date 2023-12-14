@@ -122,7 +122,7 @@
         "option4": "Pedestrian crossing|à¤ªà¥ˆà¤¦à¤² à¤ªà¤¾à¤° à¤•à¤°à¤¨à¥‡ à¤•à¥‡ à¤¸à¥à¤¥à¤¾à¤¨",
         "correct_option": "Unguarded|à¤…à¤¸à¤‚à¤°à¤•à¥à¤·à¤¿à¤¤",
         "trade": "Fitter",
-        "year": "Third Year",
+        "year": "Second Year",
         "subject": "Trade Theory",
         "chapter": "Module I",
         "image": "https:\/\/icf.gov.in\/quiz\/images\/005.jpg"
