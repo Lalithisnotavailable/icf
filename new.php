@@ -10,7 +10,7 @@
         "trade": "Fitter",
         "year": "First Year",
         "subject": "Trade Theory",
-        "chapter": "Module I",
+        "chapter": "Module 1 : Trade Theory",
         "image": "https:\/\/icf.gov.in\/quiz\/images\/002.jpg"
     },
     {
@@ -24,7 +24,7 @@
         "trade": "Fitter",
         "year": "First Year",
         "subject": "Trade Theory",
-        "chapter": "Module I",
+        "chapter": "Module 1 : Trade Theory",
         "image": "https:\/\/icf.gov.in\/quiz\/images\/005.jpg"
     },
     {
@@ -38,7 +38,7 @@
         "trade": "Fitter",
         "year": "First Year",
         "subject": "Trade Theory",
-        "chapter": "Module I",
+        "chapter": "Module 1 : Trade Theory",
         "image": 0
     },
     {
@@ -52,7 +52,7 @@
         "trade": "Fitter",
         "year": "First Year",
         "subject": "Trade Theory",
-        "chapter": "Module I",
+        "chapter": "Module 1 : Trade Theory",
         "image": 0
     },
     {
@@ -66,7 +66,7 @@
         "trade": "Fitter",
         "year": "First Year",
         "subject": "Trade Theory",
-        "chapter": "Module I",
+        "chapter": "Module 1 : Trade Theory",
         "image": "https:\/\/icf.gov.in\/quiz\/images\/002.jpg"
     },
     {
@@ -80,7 +80,7 @@
         "trade": "Fitter",
         "year": "First Year",
         "subject": "Trade Theory",
-        "chapter": "Module II",
+        "chapter": "Module 2",
         "image": 0
     },
     {
@@ -94,7 +94,7 @@
         "trade": "Fitter",
         "year": "First Year",
         "subject": "Trade Theory",
-        "chapter": "Module III",
+        "chapter": "Module 2",
         "image": 0
     },
     {
